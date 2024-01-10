@@ -1,6 +1,7 @@
 # UnitySolution
 ## Questions
 - [x] [1.Unity에서 한글주석 깨짐현상 해결하기.](#unity에서-한글주석-깨짐현상-해결하기)
+- [ ] [2.Unity와 Firebase 연동하기.]()
 *****
 ## Solutions
 ### Unity에서 한글주석 깨짐현상 해결하기
@@ -19,4 +20,9 @@
 ### Comment
 - 환경이 달라지거나 협업한다면 위로인해 문제가 생길 수 있다.
 - 관리해야 할 스크립트 수가 적은 프로젝트 초기에 인코딩 방식을 잡고 가는것이 이상적으로 보인다.
+*****
+### Unity와 Firebase 연동하기
+### 원인
+### Solution - 
+### Comment
 *****
